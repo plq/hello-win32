@@ -1,3 +1,9 @@
+Why: https://news.ycombinator.com/edit?id=29531029
+
+First, run the provisioning script to get Visual Studio.
+Get something to drink, call your mom, etc. while it does its job.
+
+Then, launch a developer powershell and follow along:
 
 
 ```
